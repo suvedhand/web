@@ -10,8 +10,6 @@ keywords:
 ---
 
 This website uses the following platforms and frameworks: 
-\
-\
 <!--more-->
 
 This website uses the following platforms and frameworks:  
