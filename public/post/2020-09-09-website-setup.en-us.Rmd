@@ -9,11 +9,13 @@ keywords:
   - website
 ---
 
-This website uses the following platforms and frameworks:
-
+This website uses the following platforms and frameworks: 
+\
+\
 <!--more-->
 
-This website is using the following platforms and frameworks:
+This website uses the following platforms and frameworks:  
+\
 
 1. [Hugo ](https://gohugo.io) - open source static site generator
 2. [Hugo Tranquilpeak Theme](https://themes.gohugo.io/hugo-tranquilpeak-theme/) - a custom template to personolize the website
