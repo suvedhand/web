@@ -1,0 +1,24 @@
+---
+title: "Website Setup"
+author: "SuvedhanD"
+date: '2020-09-09'
+slug: website-setup
+categories: ['website']
+tags: ['faq']
+keywords:
+  - website
+---
+
+This website uses the following platforms and frameworks:
+
+<!--more-->
+
+This website is using the following platforms and frameworks:
+
+1. [Hugo ](https://gohugo.io) - open source static site generator
+2. [Hugo Tranquilpeak Theme](https://themes.gohugo.io/hugo-tranquilpeak-theme/) - a custom template to personolize the website
+3. [R Studio Desktop](https://rstudio.com/products/rstudio/) - an integrated development Environment (IDE) for R
+4. [R Blogdown](https://bookdown.org/yihui/blogdown/) - open source R package to generate static websites based on R and Hugo
+5. [R Markdown](https://rmarkdown.rstudio.com) to write, analyze and share posts
+6. [Github](https://github.com) for hosting the website code and version control
+7. [Netlify](https://www.netlify.com) to deploy using continuous integration with Github
